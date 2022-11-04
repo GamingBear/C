@@ -8,3 +8,5 @@ int main(){
     scanf("%d", &X);
     printf("%d", Lovro(X));
 }
+
+https://www.mojwebdizajn.net/c-rijeseni-zadatci/c-programiranje-zadatci-polja-1.php
